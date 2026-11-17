@@ -1,0 +1,6 @@
+{
+  "name": "PyCraft 物件實驗室",
+  "description": "專為初學者與進階學習者設計的 Python 類別 (Class) 與物件 (Object) 互動式視覺學習平台，包含即時記憶體模型、self 執行拆解、繼承多型實驗室與程式實戰測驗。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
